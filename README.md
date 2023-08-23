@@ -14,7 +14,7 @@ Multiple functions and objects were created to clean up the code which makes it 
 
 # Requirements
 
-To use this audio plugin, you will need a Digital Audio Workstation (DAW) that supports VST, VST3, or AU plugin formats. The plugin was built and tested on Windows, but should also work on Mac and Linux systems.
+To use this audio plugin, you will require a Digital Audio Workstation (DAW) that supports VST, VST3, or AU plugin formats. The plugin was built and tested on Windows, but should also work on Mac and Linux systems.
 
 # Installation
 
