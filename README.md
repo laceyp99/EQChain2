@@ -1,5 +1,7 @@
 # EQChain2
 
+> **Archived.** This plugin now lives in [laceyp99/juce-plugins](https://github.com/laceyp99/juce-plugins), alongside my other 2023 JUCE plugins.
+
 This project is an update to my previous EQChain plugin I made that was inspired by Ableton Live's EQ Eight. The EQ controls eight bands with non-linear phase. The update was focused on making the GUI and processing closer to the user experience of using EQ Eight. 
 
 # Updates
